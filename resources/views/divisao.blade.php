@@ -89,7 +89,7 @@
                     <input type="number" name="primeiroParametro">
                     <input type="number" name="segundoParametro">
                 </div>
-                <input type="submit" value="+">
+                <input type="submit" value="/">
             </form>
             <span class="result">
                 {{  $resultado ?? ''}}
